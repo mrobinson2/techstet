@@ -1,8 +1,10 @@
 <p align="center">
   <img src="assets/techstet-icon-128.png" width="96" height="96" alt="techstet icon: a struck line, kept">
 </p>
+<p align="center">
+  <img src="assets/techstet-wordmark.png" width="420" alt="techstet: let the meaning stand">
+</p>
 
-<h1 align="center">techstet</h1>
 <p align="center"><strong>Let the meaning stand.</strong><br>
 An agent skill that removes AI slop from technical writing, adds what the reader needs, and proves nothing was lost.</p>
 
