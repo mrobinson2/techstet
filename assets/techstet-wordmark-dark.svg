@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="techstet wordmark">
+  <title>techstet</title>
+  <rect width="900" height="220" fill="none"/>
+  <text x="60" y="140" font-family="Menlo, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="120" font-weight="700" fill="#F8FAFC" letter-spacing="-2">tech<tspan fill="#EF4444">stet</tspan></text>
+  <g fill="#EF4444">
+    <circle cx="372" cy="166" r="7"/><circle cx="414" cy="166" r="7"/><circle cx="456" cy="166" r="7"/><circle cx="498" cy="166" r="7"/><circle cx="540" cy="166" r="7"/><circle cx="582" cy="166" r="7"/><circle cx="624" cy="166" r="7"/>
+  </g>
+  <text x="60" y="210" font-family="Menlo, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="26" fill="#CBD5E1">let the meaning stand</text>
+</svg>

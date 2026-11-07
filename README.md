@@ -2,7 +2,10 @@
   <img src="assets/techstet-icon-128.png" width="96" height="96" alt="techstet icon: a struck line, kept">
 </p>
 <p align="center">
-  <img src="assets/techstet-wordmark.png" width="420" alt="techstet: let the meaning stand">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/techstet-wordmark-dark.png">
+    <img src="assets/techstet-wordmark.png" width="420" alt="techstet: let the meaning stand">
+  </picture>
 </p>
 
 <p align="center"><strong>Let the meaning stand.</strong><br>
