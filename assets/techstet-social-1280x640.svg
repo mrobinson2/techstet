@@ -13,5 +13,5 @@
   <text x="480" y="300" font-family="Menlo, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="118" font-weight="700" fill="#F8FAFC" letter-spacing="-2">tech<tspan fill="#EF4444">stet</tspan></text>
   <g fill="#EF4444"><circle cx="790" cy="326" r="7"/><circle cx="831" cy="326" r="7"/><circle cx="872" cy="326" r="7"/><circle cx="913" cy="326" r="7"/><circle cx="954" cy="326" r="7"/><circle cx="995" cy="326" r="7"/><circle cx="1036" cy="326" r="7"/></g>
   <text x="482" y="385" font-family="Menlo, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="34" fill="#CBD5E1">let the meaning stand</text>
-  <text x="482" y="440" font-family="Menlo, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="22" fill="#64748B">an agent skill for technical docs and books · Claude Code · Codex · M365 Copilot</text>
+  <text x="482" y="440" font-family="Menlo, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="19" fill="#64748B">agent skill for technical docs and books · Claude Code · Codex · Copilot</text>
 </svg>
