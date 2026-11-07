@@ -33,6 +33,10 @@ Three devices from speaking craft work in writing when used once per chapter or 
 - **Restatement.** One deliberate restatement of the central idea at chapter end, only when the author's sample does it. Per-section restatement is T2.
 - **Echo close.** Revisit the opening image or example with what the reader now knows. Once per chapter.
 
+## Inventory sentences
+
+A colon followed by six or more parallel items in one sentence is hard to scan and is a shape models default to. Prefer a short bulleted list, or name the two or three that matter and say where the rest live. This is for the reader; AI detectors do not reward it either way (measured 2026-11-07).
+
 ## Rhythm as engagement
 
 Readers stay with prose that moves. Three mechanical levers, none of which change meaning:
