@@ -1,0 +1,33 @@
+{
+  "skill_name": "techstet",
+  "evals": [
+    {
+      "id": 1,
+      "name": "adr-policy-edit",
+      "prompt": "Edit this ADR draft so it reads like a careful architect wrote it. Keep the decision, the exception rule, and the status exactly as they are. Return the edited markdown plus a short note of what changed.",
+      "expected_output": "Edited ADR with tier-1 tells removed (staged contrasts, 'experts agree', 'the future looks bright', 'one might be tempted', 'at its core'), decision cost added only from the source (HashiCorp teams migrate in 12 months), modals 'may/should/must' unchanged, status and option labels unchanged, no new facts.",
+      "files": [
+        "files/adr-draft.md"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "runbook-detect-only",
+      "prompt": "Does this runbook read like AI wrote it? Don't rewrite it, just tell me what you see and how you'd fix each thing.",
+      "expected_output": "A findings list naming each tell with the quoted line and a one-line fix ('Let's dive in', 'Ensure' x3 anaphora, bold labels restating the verb, 'seamlessly', 'Not just once', 'underscores the importance', 'Mistakes were made', 'Security isn't a product. It's a process.'). No rewrite, no AI-percentage verdict. Does not flag the numbered steps, commands, thresholds, or the step labels as fragments to expand.",
+      "files": [
+        "files/runbook-draft.md"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "book-chapter-with-author-sample",
+      "prompt": "This is the opening of Chapter 3 of my book, drafted with help from a model. Edit it to sound like me. Here is a sample of my own writing from Chapter 1 for voice matching. Keep every term I define.",
+      "expected_output": "Edited chapter opening matching the author sample's sentence length, contraction rate, first- and second-person use, and concrete scene openings; removes staged contrasts ('not just about... it's about', 'isn't a tooling problem. It's a thinking problem'), the forced triad framing, 'underscores the importance', 'Let's dive in', and the kicker; keeps the bold **signal** definition verbatim; adds no facts; includes a voice card, a What changed note, and the gate result.",
+      "files": [
+        "files/book-chapter-excerpt.md",
+        "files/author-sample.md"
+      ]
+    }
+  ]
+}

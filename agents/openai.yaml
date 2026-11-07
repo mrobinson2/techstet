@@ -1,0 +1,6 @@
+interface:
+  display_name: "/techstet"
+  short_description: "Draft, edit, or review technical docs and book chapters: remove AI tells, add concreteness, prove nothing was lost."
+  default_prompt: "Use $techstet to edit this draft. Keep every defined term, modal, number, and heading; run the preservation gate before returning."
+policy:
+  allow_implicit_invocation: true
